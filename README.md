@@ -43,3 +43,18 @@ private static final String USER = "root";
 private static final String PASSWORD = "tu_password";
 ```
 3. Ejecutar la aplicación
+```java
+Run userForm.java
+```
+
+# Funcionalidades del sistema
+<li>Listado de usuerios</li>
+<li>Registro de nuevos usuarios</li>
+<li>Edición de usuarios existentes</li>
+<li>Elimincación de usuarios</li>
+<li>Recarga de datos</li>
+
+## Este proyecto fue desarrollado como práctica para portafolio enfocado en:
+<li>JDBC</li>
+<li>Desarrollo de aplicaciones de escritorio</li>
+<LI>MySQL</LI>
