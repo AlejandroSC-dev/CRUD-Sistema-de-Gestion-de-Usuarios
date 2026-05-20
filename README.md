@@ -3,6 +3,17 @@
 <p>Este proyecto es una aplicación de escritorio desarrollado en Java 23, el cual implementa un sistema CRUD (Create,Read,Update,Delete) para la gestión de usuarios.</p>
 <p>Utiliza Java Swing para la interfaz gráfica, JDBC para la conexión de bases de datos y MySQL como gestor de base de datos.</p>
 
+# Vista previa
+
+![](./docs/screenshots/main.png.png)
+
+![Creación de usuarios.](./docs/screenshots/create_new_user.png.png)
+
+![Edición de usuarios](./docs/screenshots/edit_user.png.png)
+
+![Eliminación de usuarios](./docs/screenshots/user-deleted.png.png)
+
+
 ## Caracteristicas
 <li>Registro de usuarios.</li>
 <li>Visualización de usuario en tabla (JTable)</li>
@@ -53,17 +64,6 @@ Run userForm.java
 <li>Edición de usuarios existentes</li>
 <li>Elimincación de usuarios</li>
 <li>Recarga de datos</li>
-
-# Vista previa
-
-![](./docs/screenshots/main.png.png)
-
-![Creación de usuarios.](./docs/screenshots/create_new_user.png.png)
-
-![Edición de usuarios](./docs/screenshots/edit_user.png.png)
-
-![Eliminación de usuarios](./docs/screenshots/user-deleted.png.png)
-
 
 ## Este proyecto fue desarrollado como práctica para portafolio enfocado en:
 <li>JDBC</li>
