@@ -54,6 +54,17 @@ Run userForm.java
 <li>Elimincación de usuarios</li>
 <li>Recarga de datos</li>
 
+# Vista previa
+
+![](./docs/screenshots/main.png.png)
+
+![Creación de usuarios.](./docs/screenshots/create_new_user.png.png)
+
+![Edición de usuarios](./docs/screenshots/edit_user.png.png)
+
+![Eliminación de usuarios](./docs/screenshots/user-deleted.png.png)
+
+
 ## Este proyecto fue desarrollado como práctica para portafolio enfocado en:
 <li>JDBC</li>
 <li>Desarrollo de aplicaciones de escritorio</li>
